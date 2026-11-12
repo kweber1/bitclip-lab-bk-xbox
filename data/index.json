@@ -28,6 +28,21 @@
 "size": 10001370
 },
 {
+"map": "0x6F",
+"name": "Fp Lobby",
+"group": "Gruntilda's Lair",
+"cracks": 281734,
+"slopecracks": 703028,
+"hit5": 121956,
+"holds": 132175,
+"clips": 3825,
+"clips_flat": 1644,
+"clips_slope": 2181,
+"slopeclips": 102609,
+"size": 16327827,
+"gzparts": 2
+},
+{
 "map": "0x71",
 "name": "Statue Room",
 "group": "Gruntilda's Lair",
