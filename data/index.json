@@ -63,11 +63,15 @@
 "cracks": 396087,
 "slopecracks": 183690,
 "hit5": 171922,
-"holds": 188361,
-"clips": 166,
-"clips_flat": 0,
-"clips_slope": 166,
-"slopeclips": 604,
-"size": 10893184
+"holds": 200843,
+"clips": 35717,
+"clips_flat": 32642,
+"clips_slope": 3075,
+"slopeclips": 364881,
+"lower": 47749,
+"lower_through": 2749,
+"size": 16474336,
+"v2": 1,
+"gzparts": 2
 }
 ]
