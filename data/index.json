@@ -67,10 +67,10 @@
 "clips": 35717,
 "clips_flat": 32642,
 "clips_slope": 3075,
-"slopeclips": 364881,
+"slopeclips": 0,
 "lower": 47749,
-"lower_through": 2749,
-"size": 12369509,
+"lower_through": 570,
+"size": 3518484,
 "v2": 1
 }
 ]
