@@ -1,0 +1,58 @@
+[
+{
+"map": "0x69",
+"name": "Mm Lobby",
+"group": "Gruntilda's Lair",
+"cracks": 219665,
+"slopecracks": 213727,
+"hit5": 102255,
+"holds": 123581,
+"clips": 3,
+"clips_flat": 0,
+"clips_slope": 3,
+"slopeclips": 12962,
+"size": 7510664
+},
+{
+"map": "0x6B",
+"name": "180 Note Door",
+"group": "Gruntilda's Lair",
+"cracks": 321382,
+"slopecracks": 207774,
+"hit5": 141701,
+"holds": 178597,
+"clips": 1594,
+"clips_flat": 1006,
+"clips_slope": 588,
+"slopeclips": 65157,
+"size": 10001370
+},
+{
+"map": "0x71",
+"name": "Statue Room",
+"group": "Gruntilda's Lair",
+"cracks": 395298,
+"slopecracks": 205633,
+"hit5": 161197,
+"holds": 200052,
+"clips": 7365,
+"clips_flat": 5685,
+"clips_slope": 1680,
+"slopeclips": 23941,
+"size": 11266134
+},
+{
+"map": "0x93",
+"name": "Dingpot",
+"group": "Gruntilda's Lair",
+"cracks": 396087,
+"slopecracks": 183690,
+"hit5": 171922,
+"holds": 188361,
+"clips": 166,
+"clips_flat": 0,
+"clips_slope": 166,
+"slopeclips": 604,
+"size": 10893184
+}
+]
