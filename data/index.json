@@ -1412,9 +1412,10 @@
 "lower_through": 4262,
 "size": 4135923,
 "v2": 1,
-"pc": 2311,
-"pc_clips": 3,
-"pc_scope": "door"
+"pc": 262167,
+"pc_clips": 1304,
+"pc_scope": "room",
+"pcf": 1
 },
 {
 "map": "0x7A",
@@ -1500,8 +1501,9 @@
 "lower_through": 2471,
 "size": 4608410,
 "v2": 1,
-"pc": 1869,
-"pc_clips": 149,
-"pc_scope": "door"
+"pc": 155464,
+"pc_clips": 1482,
+"pc_scope": "room",
+"pcf": 1
 }
 ]
