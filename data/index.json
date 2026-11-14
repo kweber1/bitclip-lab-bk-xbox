@@ -18,6 +18,23 @@
 "gzparts": 2
 },
 {
+"map": "0x8C",
+"name": "Banjos House",
+"group": "Spiral Mountain",
+"cracks": 87588,
+"slopecracks": 12741,
+"hit5": 53984,
+"holds": 61456,
+"clips": 11141,
+"clips_flat": 10469,
+"clips_slope": 672,
+"slopeclips": 59222,
+"lower": 5395,
+"lower_through": 50,
+"size": 1017453,
+"v2": 1
+},
+{
 "map": "0x02",
 "name": "Mumbos Mountain",
 "group": "Mumbo's Mountain",
@@ -135,6 +152,23 @@
 "lower": 3,
 "lower_through": 3,
 "size": 368751,
+"v2": 1
+},
+{
+"map": "0x8F",
+"name": "Sharkfood Island",
+"group": "Treasure Trove Cove",
+"cracks": 167300,
+"slopecracks": 46769,
+"hit5": 65935,
+"holds": 91921,
+"clips": 15505,
+"clips_flat": 15505,
+"clips_slope": 0,
+"slopeclips": 118949,
+"lower": 21960,
+"lower_through": 4873,
+"size": 1336295,
 "v2": 1
 },
 {
@@ -428,6 +462,23 @@
 "v2": 1
 },
 {
+"map": "0x92",
+"name": "Sns Chamber",
+"group": "Gobi's Valley",
+"cracks": 110943,
+"slopecracks": 33796,
+"hit5": 31540,
+"holds": 41538,
+"clips": 11288,
+"clips_flat": 10337,
+"clips_slope": 951,
+"slopeclips": 96372,
+"lower": 1967,
+"lower_through": 0,
+"size": 1082429,
+"v2": 1
+},
+{
 "map": "0x1B",
 "name": "Mad Monster Mansion",
 "group": "Mad Monster Mansion",
@@ -666,6 +717,23 @@
 "v2": 1
 },
 {
+"map": "0x8D",
+"name": "Inside Loggo",
+"group": "Mad Monster Mansion",
+"cracks": 5010,
+"slopecracks": 113461,
+"hit5": 18786,
+"holds": 17141,
+"clips": 516,
+"clips_flat": 412,
+"clips_slope": 104,
+"slopeclips": 79622,
+"lower": 2467,
+"lower_through": 42,
+"size": 893875,
+"v2": 1
+},
+{
 "map": "0x31",
 "name": "Rusty Bucket Bay",
 "group": "Rusty Bucket Bay",
@@ -884,6 +952,23 @@
 "lower": 1566,
 "lower_through": 560,
 "size": 677149,
+"v2": 1
+},
+{
+"map": "0x8B",
+"name": "Anchor Room",
+"group": "Rusty Bucket Bay",
+"cracks": 97849,
+"slopecracks": 74763,
+"hit5": 20979,
+"holds": 24441,
+"clips": 10164,
+"clips_flat": 9497,
+"clips_slope": 667,
+"slopeclips": 70959,
+"lower": 20846,
+"lower_through": 3200,
+"size": 683455,
 "v2": 1
 },
 {
@@ -1363,6 +1448,40 @@
 "lower": 611,
 "lower_through": 609,
 "size": 1513213,
+"v2": 1
+},
+{
+"map": "0x8E",
+"name": "Furnace Fun",
+"group": "Gruntilda's Lair",
+"cracks": 210091,
+"slopecracks": 62189,
+"hit5": 117202,
+"holds": 82077,
+"clips": 9798,
+"clips_flat": 9225,
+"clips_slope": 573,
+"slopeclips": 129015,
+"lower": 5019,
+"lower_through": 3801,
+"size": 1174383,
+"v2": 1
+},
+{
+"map": "0x90",
+"name": "Battlements",
+"group": "Gruntilda's Lair",
+"cracks": 293644,
+"slopecracks": 0,
+"hit5": 173179,
+"holds": 231332,
+"clips": 23805,
+"clips_flat": 23805,
+"clips_slope": 0,
+"slopeclips": 263622,
+"lower": 41646,
+"lower_through": 327,
+"size": 3019194,
 "v2": 1
 },
 {
