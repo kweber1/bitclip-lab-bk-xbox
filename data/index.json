@@ -78,7 +78,11 @@
 "size": 555893,
 "v2": 1,
 "zl_holds": 16,
-"zl_clips": 0
+"zl_clips": 0,
+"pcf": 1,
+"pc": 35673,
+"pc_clips": 1144,
+"pc_scope": "room"
 },
 {
 "map": "0x0E",
@@ -95,7 +99,11 @@
 "lower": 6851,
 "lower_through": 589,
 "size": 717780,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 33923,
+"pc_clips": 219,
+"pc_scope": "room"
 },
 {
 "map": "0x05",
@@ -161,7 +169,11 @@
 "v2": 1,
 "gzparts": 2,
 "zl_holds": 0,
-"zl_clips": 0
+"zl_clips": 0,
+"pcf": 1,
+"pc": 589158,
+"pc_clips": 9725,
+"pc_scope": "room"
 },
 {
 "map": "0x0A",
@@ -178,7 +190,11 @@
 "lower": 3,
 "lower_through": 3,
 "size": 368751,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 37961,
+"pc_clips": 25996,
+"pc_scope": "room"
 },
 {
 "map": "0x8F",
@@ -212,7 +228,11 @@
 "lower": 150206,
 "lower_through": 32953,
 "size": 9121825,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 255236,
+"pc_clips": 3165,
+"pc_scope": "room"
 },
 {
 "map": "0x21",
@@ -280,7 +300,11 @@
 "lower": 127246,
 "lower_through": 13041,
 "size": 2155855,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 115319,
+"pc_clips": 770,
+"pc_scope": "room"
 },
 {
 "map": "0x10",
@@ -297,24 +321,34 @@
 "lower": 89658,
 "lower_through": 379,
 "size": 391825,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 18023,
+"pc_clips": 78,
+"pc_scope": "room"
 },
 {
 "map": "0x11",
 "name": "Tiptup",
 "group": "Bubblegloop Swamp",
-"cracks": 204019,
-"slopecracks": 76693,
-"hit5": 107870,
-"holds": 123887,
-"clips": 43707,
-"clips_flat": 43707,
+"cracks": 207798,
+"slopecracks": 76741,
+"hit5": 109519,
+"holds": 125997,
+"clips": 43903,
+"clips_flat": 43903,
 "clips_slope": 0,
-"slopeclips": 227817,
+"slopeclips": 228725,
 "lower": 2765,
 "lower_through": 239,
-"size": 2266416,
-"v2": 1
+"size": 2290550,
+"v2": 1,
+"pcf": 1,
+"pc": 121656,
+"pc_clips": 1979,
+"pc_scope": "room",
+"zl_holds": 2110,
+"zl_clips": 196
 },
 {
 "map": "0x27",
@@ -423,18 +457,20 @@
 "map": "0x14",
 "name": "Sandybutts Maze",
 "group": "Gobi's Valley",
-"cracks": 391270,
-"slopecracks": 206398,
-"hit5": 72994,
-"holds": 94015,
+"cracks": 396870,
+"slopecracks": 209125,
+"hit5": 73111,
+"holds": 94184,
 "clips": 4922,
 "clips_flat": 4696,
 "clips_slope": 226,
-"slopeclips": 58652,
+"slopeclips": 58669,
 "lower": 43625,
 "lower_through": 5964,
-"size": 1518680,
-"v2": 1
+"size": 1521583,
+"v2": 1,
+"zl_holds": 169,
+"zl_clips": 0
 },
 {
 "map": "0x15",
@@ -474,18 +510,20 @@
 "map": "0x1A",
 "name": "Inside Jinxy",
 "group": "Gobi's Valley",
-"cracks": 168279,
+"cracks": 178091,
 "slopecracks": 0,
-"hit5": 64167,
-"holds": 91029,
-"clips": 5520,
-"clips_flat": 5520,
+"hit5": 65442,
+"holds": 95359,
+"clips": 5804,
+"clips_flat": 5804,
 "clips_slope": 0,
-"slopeclips": 95707,
+"slopeclips": 98893,
 "lower": 0,
 "lower_through": 0,
-"size": 989123,
-"v2": 1
+"size": 1016082,
+"v2": 1,
+"zl_holds": 4330,
+"zl_clips": 284
 },
 {
 "map": "0x92",
@@ -559,25 +597,27 @@
 "map": "0x24",
 "name": "Tumblars Shed",
 "group": "Mad Monster Mansion",
-"cracks": 187875,
+"cracks": 188337,
 "slopecracks": 0,
-"hit5": 157035,
-"holds": 164620,
-"clips": 88830,
-"clips_flat": 88830,
+"hit5": 157362,
+"holds": 165035,
+"clips": 88840,
+"clips_flat": 88840,
 "clips_slope": 0,
-"slopeclips": 163711,
+"slopeclips": 163730,
 "lower": 0,
 "lower_through": 0,
-"size": 2175892,
-"v2": 1
+"size": 2179157,
+"v2": 1,
+"zl_holds": 415,
+"zl_clips": 10
 },
 {
 "map": "0x25",
 "name": "Well",
 "group": "Mad Monster Mansion",
 "cracks": 88636,
-"slopecracks": 1932,
+"slopecracks": 3109,
 "hit5": 55963,
 "holds": 61385,
 "clips": 20040,
@@ -586,8 +626,10 @@
 "slopeclips": 59320,
 "lower": 8458,
 "lower_through": 1935,
-"size": 979486,
-"v2": 1
+"size": 981442,
+"v2": 1,
+"zl_holds": 0,
+"zl_clips": 0
 },
 {
 "map": "0x26",
