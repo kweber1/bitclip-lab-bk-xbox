@@ -398,7 +398,11 @@
 "lower": 7226,
 "lower_through": 339,
 "size": 66227,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 2786,
+"pc_clips": 168,
+"pc_scope": "room"
 },
 {
 "map": "0x53",
@@ -423,18 +427,20 @@
 "map": "0x7F",
 "name": "Wozzas Cave",
 "group": "Freezeezy Peak",
-"cracks": 227752,
+"cracks": 231556,
 "slopecracks": 160716,
-"hit5": 124970,
-"holds": 148628,
-"clips": 40501,
-"clips_flat": 40471,
+"hit5": 126104,
+"holds": 150013,
+"clips": 40782,
+"clips_flat": 40752,
 "clips_slope": 30,
-"slopeclips": 217715,
+"slopeclips": 218425,
 "lower": 23299,
 "lower_through": 286,
-"size": 3008336,
-"v2": 1
+"size": 3027933,
+"v2": 1,
+"zl_holds": 1385,
+"zl_clips": 281
 },
 {
 "map": "0x12",
@@ -571,18 +577,20 @@
 "map": "0x92",
 "name": "Sns Chamber",
 "group": "Gobi's Valley",
-"cracks": 110943,
-"slopecracks": 33796,
-"hit5": 31540,
-"holds": 41538,
-"clips": 11288,
-"clips_flat": 10337,
-"clips_slope": 951,
-"slopeclips": 96372,
+"cracks": 118181,
+"slopecracks": 36296,
+"hit5": 32453,
+"holds": 42627,
+"clips": 11471,
+"clips_flat": 10486,
+"clips_slope": 985,
+"slopeclips": 101958,
 "lower": 1967,
 "lower_through": 0,
-"size": 1082429,
-"v2": 1
+"size": 1111768,
+"v2": 1,
+"zl_holds": 1089,
+"zl_clips": 183
 },
 {
 "map": "0x1B",
@@ -861,7 +869,11 @@
 "lower": 20361,
 "lower_through": 14456,
 "size": 494731,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 31891,
+"pc_clips": 45,
+"pc_scope": "room"
 },
 {
 "map": "0x2F",
@@ -878,7 +890,11 @@
 "lower": 0,
 "lower_through": 0,
 "size": 188101,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 2397,
+"pc_clips": 494,
+"pc_scope": "room"
 },
 {
 "map": "0x8D",
@@ -914,7 +930,11 @@
 "size": 7228674,
 "v2": 1,
 "zl_holds": 2903,
-"zl_clips": 5
+"zl_clips": 5,
+"pcf": 1,
+"pc": 801433,
+"pc_clips": 7047,
+"pc_scope": "room"
 },
 {
 "map": "0x34",
@@ -933,7 +953,11 @@
 "size": 704694,
 "v2": 1,
 "zl_holds": 728,
-"zl_clips": 11
+"zl_clips": 11,
+"pcf": 1,
+"pc": 51927,
+"pc_clips": 1023,
+"pc_scope": "room"
 },
 {
 "map": "0x35",
@@ -950,7 +974,11 @@
 "lower": 3002,
 "lower_through": 2761,
 "size": 544837,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 65097,
+"pc_clips": 1332,
+"pc_scope": "room"
 },
 {
 "map": "0x36",
@@ -969,7 +997,11 @@
 "size": 863935,
 "v2": 1,
 "zl_holds": 1826,
-"zl_clips": 6
+"zl_clips": 6,
+"pcf": 1,
+"pc": 92815,
+"pc_clips": 3596,
+"pc_scope": "room"
 },
 {
 "map": "0x37",
@@ -986,7 +1018,11 @@
 "lower": 1275,
 "lower_through": 1033,
 "size": 363322,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 40981,
+"pc_clips": 669,
+"pc_scope": "room"
 },
 {
 "map": "0x38",
@@ -1005,7 +1041,11 @@
 "size": 305225,
 "v2": 1,
 "zl_holds": 2014,
-"zl_clips": 1029
+"zl_clips": 1029,
+"pcf": 1,
+"pc": 29417,
+"pc_clips": 1464,
+"pc_scope": "room"
 },
 {
 "map": "0x39",
@@ -1024,7 +1064,11 @@
 "size": 266916,
 "v2": 1,
 "zl_holds": 350,
-"zl_clips": 9
+"zl_clips": 9,
+"pcf": 1,
+"pc": 13332,
+"pc_clips": 309,
+"pc_scope": "room"
 },
 {
 "map": "0x3A",
@@ -1043,7 +1087,11 @@
 "size": 441894,
 "v2": 1,
 "zl_holds": 580,
-"zl_clips": 5
+"zl_clips": 5,
+"pcf": 1,
+"pc": 44345,
+"pc_clips": 2919,
+"pc_scope": "room"
 },
 {
 "map": "0x3B",
@@ -1062,7 +1110,11 @@
 "size": 523472,
 "v2": 1,
 "zl_holds": 40,
-"zl_clips": 0
+"zl_clips": 0,
+"pcf": 1,
+"pc": 24269,
+"pc_clips": 458,
+"pc_scope": "room"
 },
 {
 "map": "0x3C",
@@ -1081,7 +1133,11 @@
 "size": 634664,
 "v2": 1,
 "zl_holds": 419,
-"zl_clips": 83
+"zl_clips": 83,
+"pcf": 1,
+"pc": 35738,
+"pc_clips": 771,
+"pc_scope": "room"
 },
 {
 "map": "0x3D",
@@ -1100,7 +1156,11 @@
 "size": 469053,
 "v2": 1,
 "zl_holds": 448,
-"zl_clips": 106
+"zl_clips": 106,
+"pcf": 1,
+"pc": 30453,
+"pc_clips": 463,
+"pc_scope": "room"
 },
 {
 "map": "0x3E",
@@ -1119,7 +1179,11 @@
 "size": 297265,
 "v2": 1,
 "zl_holds": 49,
-"zl_clips": 0
+"zl_clips": 0,
+"pcf": 1,
+"pc": 30696,
+"pc_clips": 407,
+"pc_scope": "room"
 },
 {
 "map": "0x3F",
@@ -1138,24 +1202,30 @@
 "size": 678268,
 "v2": 1,
 "zl_holds": 141,
-"zl_clips": 3
+"zl_clips": 3,
+"pcf": 1,
+"pc": 32496,
+"pc_clips": 809,
+"pc_scope": "room"
 },
 {
 "map": "0x8B",
 "name": "Anchor Room",
 "group": "Rusty Bucket Bay",
 "cracks": 97849,
-"slopecracks": 74763,
-"hit5": 20979,
-"holds": 24441,
-"clips": 10164,
+"slopecracks": 81546,
+"hit5": 22231,
+"holds": 25729,
+"clips": 10414,
 "clips_flat": 9497,
-"clips_slope": 667,
-"slopeclips": 70959,
+"clips_slope": 917,
+"slopeclips": 71468,
 "lower": 20846,
 "lower_through": 3200,
-"size": 683455,
-"v2": 1
+"size": 710987,
+"v2": 1,
+"zl_holds": 1288,
+"zl_clips": 250
 },
 {
 "map": "0x40",
@@ -1172,7 +1242,11 @@
 "lower": 118743,
 "lower_through": 57754,
 "size": 9332065,
-"v2": 1
+"v2": 1,
+"pcf": 1,
+"pc": 291499,
+"pc_clips": 5888,
+"pc_scope": "room"
 },
 {
 "map": "0x43",
@@ -1559,52 +1633,58 @@
 "map": "0x76",
 "name": "640 Note Door",
 "group": "Gruntilda's Lair",
-"cracks": 179649,
-"slopecracks": 162059,
-"hit5": 104610,
-"holds": 129147,
-"clips": 23029,
-"clips_flat": 22852,
+"cracks": 182449,
+"slopecracks": 165311,
+"hit5": 105847,
+"holds": 130943,
+"clips": 23034,
+"clips_flat": 22857,
 "clips_slope": 177,
-"slopeclips": 200892,
+"slopeclips": 201040,
 "lower": 12752,
 "lower_through": 7857,
-"size": 2493946,
-"v2": 1
+"size": 2503644,
+"v2": 1,
+"zl_holds": 1796,
+"zl_clips": 5
 },
 {
 "map": "0x77",
 "name": "Rbb Lobby",
 "group": "Gruntilda's Lair",
-"cracks": 512569,
+"cracks": 512709,
 "slopecracks": 15041,
-"hit5": 227200,
-"holds": 286286,
-"clips": 46614,
-"clips_flat": 46614,
+"hit5": 227270,
+"holds": 286356,
+"clips": 46654,
+"clips_flat": 46654,
 "clips_slope": 0,
-"slopeclips": 283817,
+"slopeclips": 283887,
 "lower": 12793,
 "lower_through": 1609,
-"size": 3513375,
-"v2": 1
+"size": 3514499,
+"v2": 1,
+"zl_holds": 70,
+"zl_clips": 40
 },
 {
 "map": "0x78",
 "name": "Rbb And Mmm Puzzle",
 "group": "Gruntilda's Lair",
-"cracks": 273042,
+"cracks": 273558,
 "slopecracks": 482498,
-"hit5": 76636,
-"holds": 94783,
+"hit5": 76738,
+"holds": 94943,
 "clips": 11926,
 "clips_flat": 11787,
 "clips_slope": 139,
-"slopeclips": 519119,
+"slopeclips": 519123,
 "lower": 8766,
 "lower_through": 844,
-"size": 2837640,
-"v2": 1
+"size": 2838978,
+"v2": 1,
+"zl_holds": 160,
+"zl_clips": 0
 },
 {
 "map": "0x79",
@@ -1650,35 +1730,39 @@
 "map": "0x80",
 "name": "Ff Entrance",
 "group": "Gruntilda's Lair",
-"cracks": 125860,
+"cracks": 127348,
 "slopecracks": 36086,
-"hit5": 71780,
-"holds": 81654,
-"clips": 18131,
-"clips_flat": 18110,
+"hit5": 72314,
+"holds": 81906,
+"clips": 18143,
+"clips_flat": 18122,
 "clips_slope": 21,
-"slopeclips": 121353,
+"slopeclips": 121379,
 "lower": 611,
 "lower_through": 609,
-"size": 1513213,
-"v2": 1
+"size": 1517833,
+"v2": 1,
+"zl_holds": 252,
+"zl_clips": 12
 },
 {
 "map": "0x8E",
 "name": "Furnace Fun",
 "group": "Gruntilda's Lair",
-"cracks": 210091,
-"slopecracks": 62189,
-"hit5": 117202,
-"holds": 82077,
-"clips": 9798,
+"cracks": 211957,
+"slopecracks": 62839,
+"hit5": 117288,
+"holds": 82193,
+"clips": 9809,
 "clips_flat": 9225,
-"clips_slope": 573,
-"slopeclips": 129015,
+"clips_slope": 584,
+"slopeclips": 129712,
 "lower": 5019,
 "lower_through": 3801,
-"size": 1174383,
-"v2": 1
+"size": 1183561,
+"v2": 1,
+"zl_holds": 116,
+"zl_clips": 11
 },
 {
 "map": "0x90",
