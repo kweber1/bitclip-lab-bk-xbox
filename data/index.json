@@ -1265,7 +1265,11 @@
 "size": 10609190,
 "v2": 1,
 "zl_holds": 2564,
-"zl_clips": 73
+"zl_clips": 73,
+"pcf": 1,
+"pc": 717011,
+"pc_clips": 4047,
+"pc_scope": "room"
 },
 {
 "map": "0x44",
